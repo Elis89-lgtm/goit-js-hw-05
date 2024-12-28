@@ -42,3 +42,9 @@ users.filter(user => user.gender ===gender)
 
    console.log(getTotalBalanceByGender(clients, "male" )) ;
    console.log(getTotalBalanceByGender(clients, "female" )) ;
+
+
+   index.html
+     js/task-1.js
+ js/task-2.js
+  js/task-3.js
